@@ -13,7 +13,7 @@
 Branch is a standalone tool that lets you build branching narratives visually, without needing to write complex code. It combines a node-based editor with a powerful logic system, allowing you to create dynamic stories with variables, conditions, inventory, and even sound effects. When you're ready, you can instantly playtest your creation right inside the app.
 
 <p align="center">
-  <img src="Interface.png" alt="Editor Screenshot" width="800">
+  <img src="images/Interface.png" alt="Editor Screenshot" width="800">
 </p>
 
 ---
